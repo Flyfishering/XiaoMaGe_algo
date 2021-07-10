@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="845e17b4-6627-4864-84bd-c189f3b05672" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gJ9kp6Hvpi1HQrvFNd7tdzl6Dd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunManager" selected="Application.数组中重复次数最多的数">
+    <configuration name="数组中重复次数最多的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组排序_01.数组中重复次数最多的数" />
+      <module name="LeetCode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组排序_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_121_买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划_05._121_买卖股票的最佳时机" />
+      <module name="LeetCode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="动态规划_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_151_翻转字符串里的单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串_04._151_翻转字符串里的单词" />
+      <module name="LeetCode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_72_编辑距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划_05._72_编辑距离" />
+      <module name="LeetCode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="动态规划_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_剑指_Offer_47_礼物的最大价值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="动态规划_05._剑指_Offer_47_礼物的最大价值" />
+      <module name="LeetCode刷题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="动态规划_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.数组中重复次数最多的数" />
+        <item itemvalue="Application._121_买卖股票的最佳时机" />
+        <item itemvalue="Application._剑指_Offer_47_礼物的最大价值" />
+        <item itemvalue="Application._72_编辑距离" />
+        <item itemvalue="Application._151_翻转字符串里的单词" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="845e17b4-6627-4864-84bd-c189f3b05672" name="Default Changelist" comment="" />
+      <created>1597821973748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597821973748</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="338" width="475" height="211" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615518812825">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="485" y="338" width="475" height="211" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1615518812825" />
+    <state width="1392" height="2" key="GridCell.Tab.0.bottom" timestamp="1617069018798">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1392" height="2" key="GridCell.Tab.0.bottom/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1616401606914" />
+    <state width="1392" height="2" key="GridCell.Tab.0.bottom/0.25.1440.831/1440.-303.1920.1055@0.25.1440.831" timestamp="1617069018798" />
+    <state width="1392" height="2" key="GridCell.Tab.0.center" timestamp="1617069018797">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1392" height="2" key="GridCell.Tab.0.center/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1616401606914" />
+    <state width="1392" height="2" key="GridCell.Tab.0.center/0.25.1440.831/1440.-303.1920.1055@0.25.1440.831" timestamp="1617069018797" />
+    <state width="1392" height="2" key="GridCell.Tab.0.left" timestamp="1617069018797">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1392" height="2" key="GridCell.Tab.0.left/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1616401606914" />
+    <state width="1392" height="2" key="GridCell.Tab.0.left/0.25.1440.831/1440.-303.1920.1055@0.25.1440.831" timestamp="1617069018797" />
+    <state width="1392" height="2" key="GridCell.Tab.0.right" timestamp="1617069018797">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1392" height="2" key="GridCell.Tab.0.right/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1616401606914" />
+    <state width="1392" height="2" key="GridCell.Tab.0.right/0.25.1440.831/1440.-303.1920.1055@0.25.1440.831" timestamp="1617069018797" />
+    <state width="1392" height="2" key="GridCell.Tab.1.bottom" timestamp="1616401606915">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1392" height="2" key="GridCell.Tab.1.bottom/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1616401606915" />
+    <state width="1392" height="2" key="GridCell.Tab.1.center" timestamp="1616401606915">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1392" height="2" key="GridCell.Tab.1.center/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1616401606915" />
+    <state width="1392" height="2" key="GridCell.Tab.1.left" timestamp="1616401606914">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1392" height="2" key="GridCell.Tab.1.left/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1616401606914" />
+    <state width="1392" height="2" key="GridCell.Tab.1.right" timestamp="1616401606915">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1392" height="2" key="GridCell.Tab.1.right/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1616401606915" />
+    <state x="388" y="179" width="670" height="677" key="search.everywhere.popup" timestamp="1615449514957">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="388" y="179" width="670" height="676" key="search.everywhere.popup/0.25.1440.830/-1920.-348.1920.1055@0.25.1440.830" timestamp="1614936624745" />
+    <state x="388" y="179" width="670" height="676" key="search.everywhere.popup/0.25.1440.830@0.25.1440.830" timestamp="1614999512844" />
+    <state x="388" y="179" width="670" height="677" key="search.everywhere.popup/0.25.1440.831/-1920.-348.1920.1055@0.25.1440.831" timestamp="1615449514957" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/作业/数组排序_01/_06_977_有序数组的平方_未做_作业.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/字符串_04/_151_翻转字符串里的单词.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划_05/_72_编辑距离.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$_977_.ic" NAME="_977_有序数组的平方 Coverage Results" MODIFIED="1598444022587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
